@@ -1,4 +1,4 @@
-# Phần Mềm Quản Lý Bán Quần Áo -Group-4-IT17327-PRO1041
+# Phần Mềm Quản Lý Bán Quần Áo -Group-4
 Dự án 1 của nhóm 4, Good good 🧠
 ### 2. Format và import 
 - Code bắt buộc phải format. Phải dùng format chung cùng với format chuẩn của dự án và code phần nào bôi đen phần đấy và format. Không được phép format cả trang.
